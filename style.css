@@ -1,0 +1,87 @@
+
+img{
+    width: 100px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+}
+.navlist{
+    display: flex;
+   
+}
+.buttons{
+    display: flex;
+    justify-content:flex-end;
+}
+.navlist a{
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+button{
+    margin: 5px;
+}
+.nav-items{
+    height: 30px;
+    display: flex;
+    background-color: #282A35;
+    color: #fff;
+   padding-top: 11px;
+   padding-bottom: 7px;
+   padding-left: 16px;
+   padding-right: 10px;
+}
+.nav-items strong{
+    margin: 10px;
+}
+#dark-mode{
+    width: 25px;
+    height: 25px;
+    margin-left: 90px;
+}
+#globe{
+    width: 25px;
+    height: 25px;
+    margin-left: 90px;
+}
+#search{
+    width: 25px;
+    height: 25px;
+    margin-left: 90px;
+}
+.nav-img{
+ display: flex;
+ justify-content: flex-end;
+ justify-content: space-around;
+}
+.pro{
+    background-color:#282A35 ;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+.get-Certified{
+    background-color: #FFC0C7;
+    color: black;
+    border: none;
+    border-radius: 20px;
+}
+.create-Website{
+    background-color: #FFF4A3;
+    color: black;
+    border: none;
+    border-radius: 20px;
+}
+.Sign-Up{
+    background-color: #04AA6D;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+.Login{
+    background-color: #D9EEE1;
+    color: black;
+    border: none;
+    border-radius: 20px;
+}
